@@ -1,14 +1,14 @@
-# PyCharm 新增專案
+## PyCharm 新增專案
 
-## 開啟 PyCharm Community
-<img src="condapycharm.png" border="1">
+### 開啟 PyCharm Community
+<img src="condapycharm.png" border="1" width="500">
 
-## 新增專案
-<img src="newproject.png">
+### 新增專案
+<img src="newproject.png" width="500">
 
-## 設定專案環境
+### 設定專案環境
 + <b>Location:</b> 將 <b>pythonProject</b> 改名為 <b>faceRecognition</b>
 + <b>Existing interpreter:</b> Python 3.8 <b>(base)</b>
 + <b>Create</b>
-<img src="projectenv.png">
+<img src="projectenv.png" width="500">
 
