@@ -1,11 +1,13 @@
 ## Anaconda與PyCharm的下載安裝
 
-## PyCharm下載安裝
-版本 <b>Community</b>下載網址:<br>[https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/)
-<img src="downloadpycharm.png" border="1" width="300">
+### PyCharm下載安裝
+版本 <b>Community</b>下載網址:<br>
+[https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/)<br>
+<img src="downloadpycharm.png" border="1" width="300"><br>
 
-## Anaconda下載安裝
-版本 <b>Individual Edition</b> 下載網址:<br> [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
+### Anaconda下載安裝
+版本 <b>Individual Edition</b> 下載網址:<br>
+[https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)<br>
 <img src="downloadconda.png" border="1" width="300">
 
 ### 開啟Anaconda Navigator
