@@ -13,9 +13,9 @@
 ##### [Anaconda 安裝套件 opencv-contrib-python](PACKAGE.md)
 
 ## 人臉辨識實作功能
-+ 普適人臉偵測 <b>faceCapture.py</b>
-+ 特定人臉訓練 <b>faceTraining.py</b>
-+ 特定人臉辨識 <b>faceRecognition.py</b>
++ 普適人臉偵測 <b>[faceCapture.py](src/faceCapture.py)</b>
++ 特定人臉訓練 <b>[faceTraining.py](src/faceTraining.py)</b>
++ 特定人臉辨識 <b>[faceRecognition.py](src/faceRecognition.py)</b>
 
 ##### 參考資料
 >  [OpenCV Tutorial: Cascade Classifier](https://docs.opencv.org/master/db/d28/tutorial_cascade_classifier.html)<br>
