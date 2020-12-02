@@ -23,6 +23,6 @@
 > [Face Recognition using OpenCV – Part 3](https://www.pytorials.com/face-recognition-using-opencv-part-3/)<br>
 > [Opencv Cascade Object Detection (中文)](https://chtseng.wordpress.com/2018/06/15/opencv-cascade-object-detection/)
 
-## 下一步
+## 進一步
 > [A Gentle Introduction to Face Recognition in Deep Learning](
 https://sefiks.com/2020/05/01/a-gentle-introduction-to-face-recognition-in-deep-learning/)
